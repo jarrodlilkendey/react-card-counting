@@ -1,9 +1,9 @@
 - [ ] Setup new dev environment
   - [x] Vite + React + Typescript
   - [x] Tailwind
-  - [ ] React Router
+  - [x] React Router
   - [x] Setup ESLint
-  - [ ] Setup Husky
+  - [x] Setup Husky
   - [ ] Unit Tests Vitest
   - [ ] Test Coverage
   - [ ] Integration Tests
