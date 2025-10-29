@@ -1,6 +1,6 @@
 - [ ] Setup new dev environment
-  - [ ] Vite + React + Typescript
-  - [ ] Tailwind
+  - [x] Vite + React + Typescript
+  - [x] Tailwind
   - [ ] React Router
   - [ ] Setup ESLint
   - [ ] Setup Husky
