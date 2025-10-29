@@ -1,15 +1,16 @@
-- [ ] Setup new dev environment
+- [x] Setup new dev environment
   - [x] Vite + React + Typescript
   - [x] Tailwind
   - [x] React Router
   - [x] Setup ESLint
   - [x] Setup Husky
   - [x] Unit Tests Vitest
-  - [ ] Integration Tests
-  - [ ] E2E Tests Playwright
+  - [x] Integration Tests
+  - [x] E2E Tests Playwright
   - [x] Test Coverage
 - [ ] Setup CICD
 - [ ] Setup IAC for AWS
+- [ ] Protect master branch
 - [ ] Setup branching / merging with GitHub Pull Requests
 - [ ] Run CICD on GitHub Pull Requests
 - [ ] React - components, props, state, ref, hooks, context
