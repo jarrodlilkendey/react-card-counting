@@ -2,7 +2,7 @@
   - [x] Vite + React + Typescript
   - [x] Tailwind
   - [ ] React Router
-  - [ ] Setup ESLint
+  - [x] Setup ESLint
   - [ ] Setup Husky
   - [ ] Unit Tests Vitest
   - [ ] Test Coverage
