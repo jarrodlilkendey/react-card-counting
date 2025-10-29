@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "prepare": "husky",
     "test": "vitest",
-    "test:coverage": "vitest run --coverage"
+    "test:coverage": "vitest run --coverage",
+    "test:e2e": "pnpm exec playwright test"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.16",
@@ -21,6 +22,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
+    "@playwright/test": "^1.56.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.0",
     "@types/node": "^24.6.0",

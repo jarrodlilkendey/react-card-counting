@@ -8,7 +8,7 @@ import reactX from "eslint-plugin-react-x";
 import reactDom from "eslint-plugin-react-dom";
 
 export default defineConfig([
-  globalIgnores(["dist"]),
+  globalIgnores(["dist", "coverage", "e2e", "playwright.config.ts"]),
   {
     files: ["**/*.{ts,tsx}"],
     extends: [
