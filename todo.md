@@ -4,9 +4,10 @@
   - [x] React Router
   - [x] Setup ESLint
   - [x] Setup Husky
-  - [ ] Unit Tests Vitest
-  - [ ] Test Coverage
+  - [x] Unit Tests Vitest
   - [ ] Integration Tests
+  - [ ] E2E Tests Playwright
+  - [x] Test Coverage
 - [ ] Setup CICD
 - [ ] Setup IAC for AWS
 - [ ] Setup branching / merging with GitHub Pull Requests
