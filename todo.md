@@ -1,0 +1,20 @@
+- [ ] Setup new dev environment
+  - [ ] Vite + React + Typescript
+  - [ ] Tailwind
+  - [ ] React Router
+  - [ ] Setup ESLint
+  - [ ] Setup Husky
+  - [ ] Unit Tests Vitest
+  - [ ] Test Coverage
+  - [ ] Integration Tests
+- [ ] Setup CICD
+- [ ] Setup IAC for AWS
+- [ ] Setup branching / merging with GitHub Pull Requests
+- [ ] Run CICD on GitHub Pull Requests
+- [ ] React - components, props, state, ref, hooks, context
+- [ ] Add navigation to a single page app
+- [ ] React Redux state management
+- [ ] Consuming APIs
+- [ ] Performance Tests
+- [ ] Security Tests
+- [ ] Dockerise APIs
