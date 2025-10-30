@@ -8,6 +8,7 @@ import "./index.css";
 import CardCountingApp from "./components/CardCountingApp.tsx";
 import LearnBasicStrategy from "./components/LearnBasicStrategy.tsx";
 import LearnCardCounting from "./components/LearnCardCounting.tsx";
+import ContactUsPage from "./pages/ContactUsPage.tsx";
 
 const router = createBrowserRouter([
   {
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
   {
     path: "/card-counting",
     element: <LearnCardCounting />,
+  },
+  {
+    path: "/contact",
+    element: <ContactUsPage />,
   },
 ]);
 
